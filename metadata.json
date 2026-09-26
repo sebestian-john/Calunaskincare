@@ -1,0 +1,6 @@
+{
+  "name": "Caluna Skincare | Hydrocolloid Acne Patches",
+  "description": "Caluna makes fragrance-free hydrocolloid acne patches tailored for every facial zone. A calmer, gentler way to heal blemishes overnight.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
